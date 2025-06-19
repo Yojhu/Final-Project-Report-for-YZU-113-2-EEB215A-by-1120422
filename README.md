@@ -23,4 +23,9 @@
 - Python 3
 - OpenCV     （我是使用opencv3.4.2版本訓練模型）
 - pytesseract
-## 如何安裝與執行
+## 如何安裝
+-直接下載`train_plates`、`車牌偵測/`這兩個資料夾
+## 如何執行
+- 如果要重新訓練，首先打開 `train_plates`中的`trans.py`將程式碼2到13行改至正確位置，就可以運行`trans.py`結果會放置在`output/`中
+- 再打開 `車牌偵測/`中的`License_Plate_Detection/`將程式碼5、6行改至正確位置，就可以運行`License_Plate_Detection/`，圖片中車牌位置會被方框框著，車牌號碼辨識結果會output
+
