@@ -2,14 +2,13 @@
 
 ##Folder Structure
 
-train_plates/
-│
-├── positive/                          # 正樣本
-├── negative/                          # 負樣本
-├── output/                            # Haar模型輸出（例如 cascade.xml）
-├── info.lst                           # 正樣本描述檔
-├── bg.txt                             # 負樣本描述檔
-└── trans.py                           # 訓練 hear cascade的程式
+`train_plates`資料夾裡有
+- `positive/` :正樣本
+- `negative/` :負樣本
+- `output/`   :Haar模型輸出（例如 cascade.xml）
+- `info.lst`  :正樣本描述檔
+- `bg.txt`    :負樣本描述檔
+- `trans.py`  :訓練 hear cascade的程式
 車牌偵測/
 │
 ├── License_Plate_Detection/           # 車牌辨識程式
