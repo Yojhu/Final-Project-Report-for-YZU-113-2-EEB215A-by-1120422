@@ -1,4 +1,4 @@
-## Final-Project-Report-for-YZU-113-2-EEB215A-by1120422胡祐禎
+# Final-Project-Report-for-YZU-113-2-EEB215A-by1120422胡祐禎
 
 ## Folder Structure
 
@@ -21,6 +21,6 @@
 
 ## Requirements
 - Python 3
-- OpenCV     #我是使用opencv3.4.2版本訓練模型
+- OpenCV     （我是使用opencv3.4.2版本訓練模型）
 - pytesseract
 ## 如何安裝與執行
